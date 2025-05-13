@@ -1,6 +1,9 @@
 ### PRODIGY_ML_01
 #### TASK 1- LİNEAR REGRESSİON
 
+![image](https://github.com/user-attachments/assets/e31a7f26-2839-4790-8196-98c5c1821905)
+
+
 #### What is Linear Regression?
 Linear regression is a statistical technique used to model the relationship between a dependent variable and one or more independent variables using a linear equation.
 
