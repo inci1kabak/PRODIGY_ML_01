@@ -81,3 +81,38 @@
 * YrSold: Year Sold
 * SaleType: Type of sale
 * SaleCondition: Condition of sale
+
+Dataset Link : https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
