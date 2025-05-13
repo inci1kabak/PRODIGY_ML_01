@@ -24,12 +24,16 @@ Linear regression is a statistical technique used to model the relationship betw
 
 #### Use Cases:
 Economics: House price prediction
+
 Healthcare: Relationship between age and blood pressure
+
 Education: Exam score analysis
+
 Marketing: Ad budget vs sales
 
 #### Simple vs Multiple Regression:
 Simple regression: One independent variable
+
 Multiple regression: More than one independent variable
 
 
