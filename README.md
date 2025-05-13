@@ -53,6 +53,9 @@ Simple regression: One independent variable
 Multiple regression: More than one independent variable
 
 
+![image](https://github.com/user-attachments/assets/ea62c3d6-1c0a-430c-8ff7-da260a6fa471)
+
+
 #### What is RMSE?
 RMSE (Root Mean Square Error) is a commonly used performance metric for evaluating regression models. It measures the average magnitude of the error between the predicted values and the actual values.
 
