@@ -53,6 +53,24 @@ Simple regression: One independent variable
 Multiple regression: More than one independent variable
 
 
+#### What is RMSE?
+RMSE (Root Mean Square Error) is a commonly used performance metric for evaluating regression models. It measures the average magnitude of the error between the predicted values and the actual values.
+
+##### Definition:
+RMSE is the square root of the average of the squared differences between the predicted values and the actual values.
+
+##### Interpretation:
+
+The lower the RMSE, the better the model’s predictions match the actual values.
+
+Since RMSE retains the units of the target variable, it is easy to interpret (e.g., in currency for house prices).
+
+RMSE is sensitive to outliers due to the squaring of errors, which gives more weight to larger errors.
+
+##### In Summary:
+RMSE provides a numerical estimate of how well a regression model performs. A lower RMSE value indicates a more accurate model.
+
+
 ##### Dataset:
 * SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
 * MSSubClass: The building class
