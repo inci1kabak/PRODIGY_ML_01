@@ -3,6 +3,15 @@
 
 ![image](https://github.com/user-attachments/assets/e31a7f26-2839-4790-8196-98c5c1821905)
 
+#### Project Description
+In this project, a multiple linear regression model was applied to predict housing prices. The model uses key features such as the number of rooms, number of bathrooms, and square footage (living area).
+
+The dataset is structured to distinguish between basement level and above-ground level features. In the initial phase, a model was built using only the above-ground level data. Later, features related to the basement were also included in the dataset and the model was retrained.
+
+Comparative analysis showed that basement features have a significant impact on housing prices. This finding highlights the importance of including basement-related data when performing housing valuation and resulted in improved model performance.
+
+
+
 
 #### What is Linear Regression?
 Linear regression is a statistical technique used to model the relationship between a dependent variable and one or more independent variables using a linear equation.
