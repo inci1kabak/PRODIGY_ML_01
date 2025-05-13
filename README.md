@@ -1,5 +1,38 @@
 ### PRODIGY_ML_01
 #### TASK 1- LİNEAR REGRESSİON
+
+#### What is Linear Regression?
+Linear regression is a statistical technique used to model the relationship between a dependent variable and one or more independent variables using a linear equation.
+
+##### 𝑦=𝑏0+𝑏1𝑥+𝜀
+
+###### y : Dependent variable
+
+###### x:  Independent variable
+
+###### 𝑏0 : Intercept
+
+###### 𝑏1 : Slope
+
+###### ε : Error term
+
+#### When is it Used?
+* When there is a linear relationship between variables
+* When you want to predict future values
+* When you want to understand cause-effect relationships
+* When data is limited but interpretability is important
+
+#### Use Cases:
+Economics: House price prediction
+Healthcare: Relationship between age and blood pressure
+Education: Exam score analysis
+Marketing: Ad budget vs sales
+
+#### Simple vs Multiple Regression:
+Simple regression: One independent variable
+Multiple regression: More than one independent variable
+
+
 ##### Dataset:
 * SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
 * MSSubClass: The building class
@@ -83,6 +116,42 @@
 * SaleCondition: Condition of sale
 
 Dataset Link : https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
