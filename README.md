@@ -10,7 +10,11 @@ The dataset is structured to distinguish between basement level and above-ground
 
 Comparative analysis showed that basement features have a significant impact on housing prices. This finding highlights the importance of including basement-related data when performing housing valuation and resulted in improved model performance.
 
+###### First Model: Used only above-ground features:
+"GrLivArea", "BedroomAbvGr", "FullBath", "HalfBath", and the target variable "SalePrice".
 
+##### Second Model: Included both above-ground and basement features:
+"GrLivArea", "BedroomAbvGr", "FullBath", "HalfBath", "TotalBsmtSF", "BsmtFullBath", "BsmtHalfBath", and "SalePrice".
 
 
 #### What is Linear Regression?
